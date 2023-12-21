@@ -8,5 +8,3 @@ const removeChar = (str) => {
     strArr.pop();
     return strArr.join('');
 };
-
-console.log(removeChar('Hello'));
